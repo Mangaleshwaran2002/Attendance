@@ -1,0 +1,9 @@
+*.md
+
+migrations/
+
+__pycache__/
+
+db.sqlite3
+
+LICENSE
