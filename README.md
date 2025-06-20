@@ -38,8 +38,8 @@ This Django-based web application is designed for managing and recording student
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <project_folder>
+   git clone [https://github.com/Mangaleshwaran2002/Attendance](https://github.com/Mangaleshwaran2002/Attendance)
+   cd Attendance
    ```
 2. Install dependencies:
    ```bash
